@@ -134,6 +134,7 @@ button{
         justify-content: space-around;
     }
     .titles{
+        margin-top:-10vh;
        width: 62vw;
     }
     .icon{
